@@ -6,7 +6,7 @@ This app is an updated BCLiquor App from what was produced during class.  This u
 
 The updated shiny app for assignment B4 can be found at: https://charlotteclayton.shinyapps.io/BCliquor_A4/
 
-This app is an updated BCLiquor App from assignment B3.  The app update allows users to filter drink preferences by type of drink, by one or more countries (new feature) and by price. This order of the sidebar filter was reordered from the B3 app based on features that are more important for user preference.  The aesthetics of the app have been updated by removing the bar chart of filtered drinks of preference. This visual output was not a useful feature for users of the app to find BC liquor stocks based on their drink preferences.  The main app output is now an interactive table with the BC liquor stocks based on the user's input. 
+This app is an updated BCLiquor App from assignment B3.  The app update allows users to filter drink preferences by type of drink, by one or more countries (new feature) and by price. This order of the sidebar filter was reordered from the B3 app based on features that are more important for user preference.  The aesthetics of the app have been updated by removing the bar chart of filtered drinks of preference. This visual output was not a useful feature for users of the app to find BC liquor stocks based on their drink preferences.  The main app output is now an interactive table with the BC liquor stocks based on the user's input. The script has been cleaned and comments have been added from B3
 
 BC Liquor data source: https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv
 BC Liquor logo source: https://en.wikipedia.org/wiki/File:BC_Liquor_Store_logo.svg
